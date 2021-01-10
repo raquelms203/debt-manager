@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "670641303326",
+    "project_id": "debt-manager-8c363",
+    "storage_bucket": "debt-manager-8c363.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670641303326:android:03a496d5aa5da64a3ee30f",
+        "android_client_info": {
+          "package_name": "com.raquelms203.debtmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670641303326-3pi7i451jo7vq7dtl7he0c13sejd0ghj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raquelms203.debtmanager",
+            "certificate_hash": "4f3dd1644773c7ac31db764c4be8a7f2da791c85"
+          }
+        },
+        {
+          "client_id": "670641303326-blq33c4id2s5le4mku8opvoucmrt84qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTq36sSBfRvvxeddzrkiysfy1gs_M3zko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670641303326-blq33c4id2s5le4mku8opvoucmrt84qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

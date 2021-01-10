@@ -1,0 +1,2 @@
+const GITHUB_CLIENT_ID = "da3bde3dd56945c7de61 ";
+const GITHUB_CLIENT_SECRET = "f975c85cfa75f1bdae5ffecdbd94511a2f9d1781";
